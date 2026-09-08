@@ -1,7 +1,6 @@
 import os
 import requests
 
-# যে যে ফাইল আপনি সোর্স থেকে কপি করতে চান
 FILES_TO_SYNC = [
     {
         "source": "https://raw.githubusercontent.com/drmlive/sliv-live-events/main/sonyliv.json",
@@ -13,25 +12,37 @@ FILES_TO_SYNC = [
     }
 ]
 
-def fetch_and_save():
-    headers = {
-        "User-Agent": "Mozilla/5.0"
-    }
-    
+def fetch_files():
+    headers = {"User-Agent": "Mozilla/5.0"}
     for item in FILES_TO_SYNC:
-        url = item["source"]
-        target = item["target"]
-        
         try:
-            response = requests.get(url, headers=headers, timeout=15)
-            if response.status_code == 200:
-                with open(target, "wb") as f:
-                    f.write(response.content)
-                print(f"Successfully synced: {target}")
+            res = requests.get(item["source"], headers=headers, timeout=15)
+            if res.status_code == 200:
+                with open(item["target"], "wb") as f:
+                    f.write(res.content)
+                print(f"Synced {item['target']}")
             else:
-                print(f"Failed to fetch {target}: HTTP {response.status_code}")
+                print(f"Failed to fetch {item['target']}: HTTP {res.status_code}")
         except Exception as e:
-            print(f"Error fetching {target}: {e}")
+            print(f"Error fetching {item['target']}: {e}")
+
+def get_source_commit_info():
+    api_url = "https://api.github.com/repos/drmlive/sliv-live-events/commits/main"
+    headers = {"Accept": "application/vnd.github.v3+json", "User-Agent": "Mozilla/5.0"}
+    try:
+        res = requests.get(api_url, headers=headers, timeout=10)
+        if res.status_code == 200:
+            commit_data = res.json()
+            source_time = commit_data["commit"]["committer"]["date"]
+            source_sha = commit_data["sha"][:7]
+            
+            if "GITHUB_ENV" in os.environ:
+                with open(os.environ["GITHUB_ENV"], "a") as env_file:
+                    env_file.write(f"SOURCE_COMMIT_TIME={source_time}\n")
+                    env_file.write(f"SOURCE_SHA={source_sha}\n")
+    except Exception as e:
+        print(f"Error fetching commit info: {e}")
 
 if __name__ == "__main__":
-    fetch_and_save()
+    fetch_files()
+    get_source_commit_info()
