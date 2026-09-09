@@ -1,13 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434893656794_eng_vs_pak_3test_D1_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Day 1 - 3rd Test - 9 Sep 2026 [ENG] - Pakistan Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789011926~acl=/*~id=69927170006506453871462707751361~hmac=5fe4c1cbb51f59aa05047fdfe0e5fb3e7f2c97559ee74dff99626f741f836c4e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788518397151822_UCL_26_MD1_Liverpool-vs-Atletico-Madrid_live_landscape_thumb.jpg" group-title="sonyliv-Football", Liverpool vs Atletico Madrid - MD 1 - 10 Sep 2026 [ENG] - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789024693~acl=/*~id=03140029206589000809621462460624~hmac=2cbd2ff9e5577e75dee96c5ac84b9e0bc767d4c0b4ff07c7ca0787e0a281046d
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023610/1788772468832879_PT20_Mohali-Kings-vs-Bathinda-Royals_landscape_thumb.jpg" group-title="sonyliv-Cricket", Mohali Kings vs Bathinda Royals - 9 Sep 2026 [HIN] - Sher-E-Punjab T20 League
-https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789011926~acl=/*~id=69927170006506453871462707751361~hmac=5fe4c1cbb51f59aa05047fdfe0e5fb3e7f2c97559ee74dff99626f741f836c4e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522481751822_UCL_26_MD1_Napoli-vs-Arsenal_live_landscape_thumb.jpg" group-title="sonyliv-Football", Napoli vs Arsenal - MD 1 - 10 Sep 2026 [ENG] - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789024693~acl=/*~id=03140029206589000809621462460624~hmac=2cbd2ff9e5577e75dee96c5ac84b9e0bc767d4c0b4ff07c7ca0787e0a281046d
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023610/1788772468832879_PT20_Mohali-Kings-vs-Bathinda-Royals_landscape_thumb.jpg" group-title="sonyliv-Cricket", Mohali Kings vs Bathinda Royals - 9 Sep 2026 [PAN] - Sher-E-Punjab T20 League
-https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789011926~acl=/*~id=69927170006506453871462707751361~hmac=5fe4c1cbb51f59aa05047fdfe0e5fb3e7f2c97559ee74dff99626f741f836c4e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522481751822_UCL_26_MD1_Napoli-vs-Arsenal_live_landscape_thumb.jpg" group-title="sonyliv-Football", Napoli vs Arsenal - MD 1 - 10 Sep 2026 [HIN] - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789024693~acl=/*~id=03140029206589000809621462460624~hmac=2cbd2ff9e5577e75dee96c5ac84b9e0bc767d4c0b4ff07c7ca0787e0a281046d
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023592/178871940542211_UYL26_Liverpool_vs_Atletico_live_landscape_thumb.jpg" group-title="sonyliv-Football", Liverpool vs Atletico - MD 1 - 8 Sep 2026 [ENG] - UEFA Youth League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094589/footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789011926~acl=/*~id=69927170006506453871462707751361~hmac=5fe4c1cbb51f59aa05047fdfe0e5fb3e7f2c97559ee74dff99626f741f836c4e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522481751822_UCL_26_MD1_Napoli-vs-Arsenal_live_landscape_thumb.jpg" group-title="sonyliv-Football", Napoli vs Arsenal - MD 1 - 10 Sep 2026 [TAM] - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789024693~acl=/*~id=03140029206589000809621462460624~hmac=2cbd2ff9e5577e75dee96c5ac84b9e0bc767d4c0b4ff07c7ca0787e0a281046d
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522481751822_UCL_26_MD1_Napoli-vs-Arsenal_live_landscape_thumb.jpg" group-title="sonyliv-Football", Napoli vs Arsenal - MD 1 - 10 Sep 2026 [TEL] - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022318/Footlive0909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789024693~acl=/*~id=03140029206589000809621462460624~hmac=2cbd2ff9e5577e75dee96c5ac84b9e0bc767d4c0b4ff07c7ca0787e0a281046d
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522481751822_UCL_26_MD1_Napoli-vs-Arsenal_live_landscape_thumb.jpg" group-title="sonyliv-Football", Napoli vs Arsenal - MD 1 - 10 Sep 2026 [KAN] - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive0909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789024693~acl=/*~id=03140029206589000809621462460624~hmac=2cbd2ff9e5577e75dee96c5ac84b9e0bc767d4c0b4ff07c7ca0787e0a281046d
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788517907001822_UCL_26_MD1_Paris-vs-Slavia-Bratislava_live_landscape_thumb.jpg" group-title="sonyliv-Football", PSG vs Slavia Bratislava - MD 1 - 10 Sep 2026 [ENG] - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789024693~acl=/*~id=03140029206589000809621462460624~hmac=2cbd2ff9e5577e75dee96c5ac84b9e0bc767d4c0b4ff07c7ca0787e0a281046d
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788518938569822_UCL_26_MD1_Sporting-CP-vs-Galatasaray_live_landscape_thumb.jpg" group-title="sonyliv-Football", Sporting CP vs Galatasaray - MD 1 - 10 Sep 2026 [ENG] - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789024693~acl=/*~id=03140029206589000809621462460624~hmac=2cbd2ff9e5577e75dee96c5ac84b9e0bc767d4c0b4ff07c7ca0787e0a281046d
 
