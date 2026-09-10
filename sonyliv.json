@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:04:10 10-09-2026",
+    "last update time": "17:08:11 10-09-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541867_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434935059794_eng_vs_pak_3test_D2_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pakistan Tour of England 2026",
+            "match_name": "Day 2 - 3rd Test - 10 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/criclive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789083491~acl=/*~id=15740438504382119857929392068922~hmac=d9a9f2e3d631ad524ecb28b8c72cd2f747743e86436bc473fc2fd02e27c4f839",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/criclive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789083491~acl=/*~id=15740438504382119857929392068922~hmac=d9a9f2e3d631ad524ecb28b8c72cd2f747743e86436bc473fc2fd02e27c4f839",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/criclive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789083491~acl=/*~id=15740438504382119857929392068922~hmac=d9a9f2e3d631ad524ecb28b8c72cd2f747743e86436bc473fc2fd02e27c4f839"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Amritsar Soormas vs Jalandhar Warriors - 10 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789065249~acl=/*~id=33455309972304625489052990932552~hmac=b4a55bccb6d230482436e4b4a8f139cdcb89fd2ba248be140261cde3093a3b17",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789065249~acl=/*~id=33455309972304625489052990932552~hmac=b4a55bccb6d230482436e4b4a8f139cdcb89fd2ba248be140261cde3093a3b17",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789065249~acl=/*~id=33455309972304625489052990932552~hmac=b4a55bccb6d230482436e4b4a8f139cdcb89fd2ba248be140261cde3093a3b17"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789083491~acl=/*~id=15740438504382119857929392068922~hmac=d9a9f2e3d631ad524ecb28b8c72cd2f747743e86436bc473fc2fd02e27c4f839",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789083491~acl=/*~id=15740438504382119857929392068922~hmac=d9a9f2e3d631ad524ecb28b8c72cd2f747743e86436bc473fc2fd02e27c4f839",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789083491~acl=/*~id=15740438504382119857929392068922~hmac=d9a9f2e3d631ad524ecb28b8c72cd2f747743e86436bc473fc2fd02e27c4f839"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +38,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Amritsar Soormas vs Jalandhar Warriors - 10 Sep 2026 [PAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789065249~acl=/*~id=33455309972304625489052990932552~hmac=b4a55bccb6d230482436e4b4a8f139cdcb89fd2ba248be140261cde3093a3b17",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789065249~acl=/*~id=33455309972304625489052990932552~hmac=b4a55bccb6d230482436e4b4a8f139cdcb89fd2ba248be140261cde3093a3b17",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789065249~acl=/*~id=33455309972304625489052990932552~hmac=b4a55bccb6d230482436e4b4a8f139cdcb89fd2ba248be140261cde3093a3b17"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789083491~acl=/*~id=15740438504382119857929392068922~hmac=d9a9f2e3d631ad524ecb28b8c72cd2f747743e86436bc473fc2fd02e27c4f839",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789083491~acl=/*~id=15740438504382119857929392068922~hmac=d9a9f2e3d631ad524ecb28b8c72cd2f747743e86436bc473fc2fd02e27c4f839",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789083491~acl=/*~id=15740438504382119857929392068922~hmac=d9a9f2e3d631ad524ecb28b8c72cd2f747743e86436bc473fc2fd02e27c4f839"
         },
         {
             "event_category": "Football",
@@ -52,6 +65,15 @@
             "isLive": false,
             "contentId": 1090539555,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835790230635_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090540014,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023754/1789023378620850_Asian_Games_2026_Promo_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
@@ -82,15 +104,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Women's Asia Cup 2026"
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090540014,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023409/1788428195486416_asian-games-promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Cricket",
