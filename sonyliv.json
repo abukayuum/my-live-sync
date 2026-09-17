@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:15:35 17-09-2026",
+    "last update time": "19:38:41 17-09-2026",
     "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090542526_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788419411300492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day1_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "BMW PGA Championship - Day 1 - 17 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_BMW1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789697264~acl=/*~id=35264668679825172029257698338286~hmac=37639c855ffa9f6f5d43a62214f370d7cf943fd5862f0601bf2bdcb626b889d9",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_BMW1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789697264~acl=/*~id=35264668679825172029257698338286~hmac=37639c855ffa9f6f5d43a62214f370d7cf943fd5862f0601bf2bdcb626b889d9",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_BMW1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789697264~acl=/*~id=35264668679825172029257698338286~hmac=37639c855ffa9f6f5d43a62214f370d7cf943fd5862f0601bf2bdcb626b889d9"
+        },
         {
             "event_category": "Sports",
             "isLive": false,
