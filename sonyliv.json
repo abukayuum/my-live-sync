@@ -1,38 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:07:09 28-09-2026",
+    "last update time": "11:20:20 28-09-2026",
     "matches": [
         {
-            "event_category": "Volleyball",
+            "event_category": "Shooting",
             "isLive": true,
             "contentId": "1090541381_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025099/1790534693389228_AG26_28Sep_Volleyball_Mens_India_vs_HongKong_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025122/1790568262833753_Shooting_final_esha_singh_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Hong Kong, China - Men's Volleyball - 28 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790599029~acl=/*~id=62225038948491351361677087192459~hmac=bf171577d9a766428ecc290464c97a417ae1e335d8b3db2332ca297e3dc1fede",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790599029~acl=/*~id=62225038948491351361677087192459~hmac=bf171577d9a766428ecc290464c97a417ae1e335d8b3db2332ca297e3dc1fede",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790599029~acl=/*~id=62225038948491351361677087192459~hmac=bf171577d9a766428ecc290464c97a417ae1e335d8b3db2332ca297e3dc1fede"
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090544924,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024994/1790471052970126_AG26_QF_IND_vs_AFG_promo_today_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Afghanistan - 20th Asian Games Aichi-Nagoya 2026"
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090540014,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026"
+            "match_name": "India In Action - Shooting - 28 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790617820~acl=/*~id=47498362923404865110848896785322~hmac=c352d55abbc801ebe6f58f5ad6404097f5621c1e06e59fbdf96ef5855aee361a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790617820~acl=/*~id=47498362923404865110848896785322~hmac=c352d55abbc801ebe6f58f5ad6404097f5621c1e06e59fbdf96ef5855aee361a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790617820~acl=/*~id=47498362923404865110848896785322~hmac=c352d55abbc801ebe6f58f5ad6404097f5621c1e06e59fbdf96ef5855aee361a"
         },
         {
             "event_category": "Football",
@@ -60,6 +42,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090540014,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Cricket",
