@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:47:46 03-10-2026",
+    "last update time": "06:49:28 03-10-2026",
     "matches": [
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090543297_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Day 15 - Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791033567~acl=/*~id=99350294779193496371021613163493~hmac=a523b191991cbfae69bb6fa1c355f2c8548dceb6c9819c1d00a34f50d0be6787",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791033567~acl=/*~id=99350294779193496371021613163493~hmac=a523b191991cbfae69bb6fa1c355f2c8548dceb6c9819c1d00a34f50d0be6787",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791033567~acl=/*~id=99350294779193496371021613163493~hmac=a523b191991cbfae69bb6fa1c355f2c8548dceb6c9819c1d00a34f50d0be6787"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541367_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025675/179096256687154_AG26_mens_cricket_Bronze_Match_Bangladesh_vs_Sri_Lanka_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Sri Lanka vs Bangladesh - Bronze Medal Match - Men's Cricket - 3 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791033567~acl=/*~id=99350294779193496371021613163493~hmac=a523b191991cbfae69bb6fa1c355f2c8548dceb6c9819c1d00a34f50d0be6787",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791033567~acl=/*~id=99350294779193496371021613163493~hmac=a523b191991cbfae69bb6fa1c355f2c8548dceb6c9819c1d00a34f50d0be6787",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791033567~acl=/*~id=99350294779193496371021613163493~hmac=a523b191991cbfae69bb6fa1c355f2c8548dceb6c9819c1d00a34f50d0be6787"
+        },
         {
             "event_category": "Sports",
             "isLive": false,
